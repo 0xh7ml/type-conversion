@@ -9,7 +9,7 @@ result  = 100 * 1.10 ** 7
 print("I Started saving with $" + saving + " and now have $" + result + ". Great!")
 
 # Current money in bank
-money_str = "1337.37"
+money_str = "1337"
 
 # Convert money_str into float: money_float
 
